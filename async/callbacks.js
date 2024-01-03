@@ -28,7 +28,7 @@ function adios(nombre,otrocallback){
 
 //este es un ejemplo demasiado poderoso de una función asíncrona que se ejecuta después de otra
 //esto porque una está dentro de otra
- console.log('inciando proceso')
+console.log('inciando proceso')
 hola("santi",function(){
     adios('santi', function(){
         console.log('terminando proceso..')
