@@ -1,0 +1,1 @@
+hola soy un archivo que será borrado por la fnc borrar
